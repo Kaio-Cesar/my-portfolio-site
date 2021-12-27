@@ -30,7 +30,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 h1 {
-  font: 900 2.25rem 'Montserrat', sans-serif;
+  font: 900 2rem 'Montserrat', sans-serif;
   color: var(--title-color);
   -webkit-font-smoothing: auto;
 }
@@ -47,7 +47,7 @@ nav {
   color: var(--title-color);
 }
 .container {
-  width: 100%;
+  width: auto;
   margin-left: 1.5625rem;
   margin-right: 1.5625rem;
 }
